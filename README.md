@@ -6,8 +6,8 @@
 - 👋 Hi, I’m @Liquidfingers
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Advanced SQl
-- 💞️ I’m looking to collaborate on Business Analysis
-- 📫 How to reach me [Nnamani Victor](https://web.facebook.com/home.php)
+- 💞️ I’m looking to be a Business Analyst
+- 📫 How to reach me [Nnamani Victor]
 - 😄 Pronouns: He
 - ⚡ Fun fact: Mechanical Engineering
 
