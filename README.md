@@ -64,7 +64,7 @@ Performed exploratory data analysis and customer segmentation on a global electr
 
 Built an NLP-based spam classifier using TensorFlow and Keras for SMS message classification.
 
-🔗 https://github.com/Liquidfingers/Spam-Detection-using-Deep-Learning
+🔗 https://github.com/Liquidfingers/Spam-Detection-with-NLP
 
 ---
 
