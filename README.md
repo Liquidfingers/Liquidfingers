@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | Data Analyst | Mechanical Engineering Student
 
-I am passionate about building machine learning solutions that solve real-world problems. My interests span supervised learning, deep learning, computer vision, natural language processing, and data analytics. I enjoy transforming raw data into meaningful insights through data preprocessing, feature engineering, model development, and visualization.
+Building end-to-end AI and Machine Learning solutions through data analysis, predictive modeling, deep learning, and intelligent business analytics.
 
 ---
 
@@ -47,6 +47,18 @@ I am passionate about building machine learning solutions that solve real-world 
 ---
 
 ## 🌟 Featured Projects
+
+---
+
+### 🛍️ Global Electronics Sales and Customer Segmentation with K-Means
+
+Performed exploratory data analysis and customer segmentation on a global electronics sales dataset using the K-Means clustering algorithm. The project identifies meaningful customer groups to support targeted marketing strategies, customer profiling, and business decision-making through unsupervised machine learning.
+
+**Key Skills:** Unsupervised Learning • K-Means Clustering • Data Preprocessing • Exploratory Data Analysis • Customer Segmentation • Data Visualization
+
+🔗 https://github.com/Liquidfingers/Global-Electronics-Sales-and-Customer-Segmentation-with-K-Means
+
+---
 
 ### 📩 Spam Detection using Deep Learning
 
