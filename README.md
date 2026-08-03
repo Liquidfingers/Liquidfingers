@@ -99,4 +99,4 @@ Developed multiple machine learning models to predict the next-day direction of 
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Liquidfingers
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: https://www.linkedin.com/in/victor-nnamani-665b28258/
