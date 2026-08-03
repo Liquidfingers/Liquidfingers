@@ -52,7 +52,7 @@ Building end-to-end AI and Machine Learning solutions through data analysis, pre
 
 ### 🛍️ Global Electronics Sales and Customer Segmentation with K-Means
 
-Performed exploratory data analysis and customer segmentation on a global electronics sales dataset using the K-Means clustering algorithm. The project identifies meaningful customer groups to support targeted marketing strategies, customer profiling, and business decision-making through unsupervised machine learning.
+Developed an end-to-end customer segmentation pipeline by combining SQL, Python, Power BI, and K-Means clustering to identify meaningful customer groups and generate actionable business insights.
 
 **Key Skills:** Unsupervised Learning • K-Means Clustering • Data Preprocessing • Exploratory Data Analysis • Customer Segmentation • Data Visualization
 
@@ -60,7 +60,7 @@ Performed exploratory data analysis and customer segmentation on a global electr
 
 ---
 
-### 📩 Spam Detection using Deep Learning
+### 📩 Spam Detection using Deep Learning and Natural Language Processing
 
 Built an NLP-based spam classifier using TensorFlow and Keras for SMS message classification.
 
@@ -70,7 +70,7 @@ Built an NLP-based spam classifier using TensorFlow and Keras for SMS message cl
 
 ### ₿ Bitcoin Price Direction Prediction
 
-Developed multiple machine learning models to predict the next-day direction of Bitcoin prices using historical market data and feature engineering.
+Designed and evaluated multiple supervised machine learning models to predict next-day Bitcoin price direction using engineered financial features derived from historical market data.
 
 🔗 https://github.com/Liquidfingers/Bitcoin-Price-Direction-Prediction
 
