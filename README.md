@@ -46,7 +46,7 @@ Building end-to-end AI and Machine Learning solutions through data analysis, pre
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Machine Learning & Data Analytics Projects
 
 ---
 
